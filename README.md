@@ -1,7 +1,6 @@
-_**SQL_Project_Music_Store_Analysis**_
-   SQL project to analyze online music store data
-_**Database and Tools**_
+#SQL_Project_Music_Store_Analysis
+SQL project to analyze online music store data
+#Database and Tools
    **.** PostgreSQL
    **.** pgAdmin4
-
-_**Schema- Music Store Database**_
+#Schema- Music Store Database
